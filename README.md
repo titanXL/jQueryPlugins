@@ -5,5 +5,6 @@
 A sample character counting plugin, with a sample API
 
 plugin name: charCounter
-options: maxlength prop on the element
-options: destroy - destroies the plugin
+Options: 
+1. maxlength prop on the element
+2. destroy - destroies the plugin
